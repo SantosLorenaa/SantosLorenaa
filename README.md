@@ -1,7 +1,7 @@
 <h1 align="center">💜 Lorena Silva</h1>
 
 <p align="center">
-  <i>Desenvolvedora Web & Mobile • Estudante de ADS • Criando com paixão pelo código</i>
+  <i>Desenvolvedora Web & Mobile • Estudante de ADS </i>
 </p>
 
 ---
@@ -11,8 +11,8 @@
 - 📍 Do Rio de Janeiro, com amor pelo código e pelo mar 🌊  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNISUAM  
 - 📱 Foco em **desenvolvimento web e mobile**  
-- 🌙 Apaixonada por transformar ideias em interfaces funcionais  
-- ✨ _"Nunca deixe que o medo sufoque os seus sonhos."_  
+
+ 
 
 ---
 
