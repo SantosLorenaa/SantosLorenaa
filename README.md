@@ -51,10 +51,10 @@ Em breve, você encontrará por aqui aplicações modernas com foco em performan
 ### 🌐 Onde me encontrar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/lorena-silva-a21229200/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lorena.silva@email.com">
+  <a href="lorenasilva.devv@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
