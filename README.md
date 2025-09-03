@@ -10,15 +10,16 @@
 
 - 📍 Do Rio de Janeiro, com amor pelo código e pelo mar 🌊  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNISUAM  
-- 🤖 Foco em **Automação de Processos** e **Inteligência Artificial** com Python  
+- 🤖 Foco em Desenvolvimento Back-End, Automação de Processos e Inteligência Artificial  
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,php,mysql,angular,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,ts,php,mysql,angular,vscode,github" />
 </div>
+
 
 ---
 
