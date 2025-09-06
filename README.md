@@ -23,12 +23,6 @@
 
 ---
 
-### 🚧 Portfólio em construção...
-
-Novos projetos estão a caminho!  
-Em breve, você encontrará por aqui soluções de **automação**, **análise de dados** e aplicações com **IA** para o dia a dia. 🚀  
-
----
 
 ### 📈 Estatísticas
 
