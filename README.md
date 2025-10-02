@@ -1,7 +1,7 @@
 <h1 align="center">💜 Lorena Silva</h1>
 
 <p align="center">
-  <i>Desenvolvedora em Automação & Inteligência Artificial • Estudante de ADS </i>
+  <i>Desenvolvedora Python </i>
 </p>
 
 ---
