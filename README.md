@@ -8,7 +8,7 @@
 
 ### 🧭 Sobre mim
 
-- 📍 Do Rio de Janeiro, com amor pelo código e pelo mar 🌊  
+- 📍 Do Rio de Janeiro  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNISUAM  
 - 🤖 Foco em Desenvolvimento Back-End, Automação de Processos e Inteligência Artificial  
 
@@ -48,5 +48,4 @@
 
 <p align="center">
   🚀 Em constante evolução  
-  💜 Criando soluções inteligentes com Python
 </p>
