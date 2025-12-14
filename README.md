@@ -17,7 +17,7 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,php,mysql" />
 </div>
 
 
