@@ -1,7 +1,7 @@
 <h1 align="center">💜 Lorena Silva</h1>
 
 <p align="center">
-  <i>Desenvolvedora Python </i>
+  <i>Desenvolvedora de Software </i>
 </p>
 
 ---
