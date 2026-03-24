@@ -10,7 +10,8 @@
 
 - 📍 Do Rio de Janeiro  
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNISUAM  
-- 🤖 Foco em Desenvolvimento Back-End, Automação de Processos e Inteligência Artificial  
+- 🤖 Foco em Desenvolvimento Back-End e 
+  Automação de Processos
 
 ---
 
