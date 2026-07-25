@@ -19,7 +19,7 @@ Tenho interesse em desenvolvimento Back-End, com foco na construção de APIs RE
 * Express
 * Git e GitHub
 * Postman
-* SQL (em aprendizado)
+* SQL 
 
 ---
 
