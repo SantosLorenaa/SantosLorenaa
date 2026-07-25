@@ -1,52 +1,31 @@
-<h1 align="center">💜 Lorena Silva</h1>
+# Lorena Silva
 
-<p align="center">
-  <i>Desenvolvedora de Software </i>
-</p>
+**Desenvolvedora Back-End | Node.js | JavaScript**
 
----
+## Sobre
 
-### 🧭 Sobre mim
+📍 Rio de Janeiro – RJ
 
-- 📍 Do Rio de Janeiro  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – UNISUAM  
-- 🤖 Foco em Desenvolvimento Back-End e 
-  Automação de Processos
+🎓 Tecnóloga em Análise e Desenvolvimento de Sistemas – UNISUAM
+
+Tenho interesse em desenvolvimento Back-End, com foco na construção de APIs REST utilizando Node.js e Express. Atualmente desenvolvo projetos práticos para consolidar conhecimentos em JavaScript, versionamento com Git e integração de aplicações, buscando evoluir continuamente na área de desenvolvimento de software.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Tecnologias
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,php,mysql" />
-</div>
-
-
----
-
-
-### 📈 Estatísticas
-
-<div align="center">
-  <img 
-    height="180em" src="https://github-readme-stats.vercel.app/api?username=SantosLorenaa&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-</div>
+* JavaScript
+* Node.js
+* Express
+* Git e GitHub
+* Postman
+* SQL (em aprendizado)
 
 ---
 
-### 🌐 Onde me encontrar?
+## Estatísticas
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lorena-silva-a21229200/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lorenasilva.devv@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+*(GitHub Stats)*
 
 ---
 
-<p align="center">
-  🚀 Em constante evolução  
-</p>
